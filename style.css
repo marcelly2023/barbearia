@@ -32,11 +32,25 @@ em strong {
 
 }
 
-.itens{
+.itens {
         font-size: italic
 
 }
 
-.beneficios{
+.beneficios {
            background
+}
+
+h2 {
+           text-aling: center;
+}
+ul {
+           display: inline-block;
+           vertical-aling: top;
+           width: 20%
+           margin-right: 15%
+}
+
+.imagembeneficios {
+       width: 50%
 }
