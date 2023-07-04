@@ -2,7 +2,7 @@ body{
 
 }
 
-#banner {
+#banner {Remover uma conta
         width:100%;
 }
 
@@ -29,7 +29,6 @@ p {
 
 em strong {
         color: #Ff0000;
-Remover uma conta
 }
 
 .itens {
@@ -38,7 +37,8 @@ Remover uma conta
 }
 
 .beneficios {
-           background
+           background: #FFFFFFF;
+           padding: 20px;
 }
 
 h2 {
